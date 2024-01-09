@@ -22,19 +22,19 @@
 ### El entrenamiento del modelo de recomendación se realiza en varias etapas, el cual involucra el procesamiento de datos y el cálulo de similitudes.
 
 ## **1. Procesamiento de Datos:**  
-###- Carga de Datos: Utilizamos tres conjuntos de datos: datos de comidas ('comidas'), datos de usuarios ('usuarios') y datos de bebidas ('bebidas), los cuales combinamos en un conjunto de datos  
+### **- Carga de Datos:** Utilizamos tres conjuntos de datos: datos de comidas ('comidas'), datos de usuarios ('usuarios') y datos de bebidas ('bebidas), los cuales combinamos en un conjunto de datos    
 ### final ('data_final')  
-###- Creación de perfiles: Creamos perfiles de usuario y perfiles de elemento a partir de las categorías relevantes en el conjunto de datos finales. Los perfiles los creamos concatenando y   
+### **- Creación de perfiles:** Creamos perfiles de usuario y perfiles de elemento a partir de las categorías relevantes en el conjunto de datos finales. Los perfiles los creamos concatenando y     
 ### procesando las descripciones relevantes.  
 
 ## **2. Vectorización con TF-IDF:**
-###- Perfil de Usuario: Aplicamos el vectorizador TF-IDF a las preferencias alimenticias de los usuarios para convertirlas en vectores numéricos.
-###- Perfil de Elemento: Utilizamos  el mismo vectorizador TF-IDF para convertir las descripciones de comidas y bebidas en vectores.
+### **- Perfil de Usuario:** Aplicamos el vectorizador TF-IDF a las preferencias alimenticias de los usuarios para convertirlas en vectores numéricos.
+### **- Perfil de Elemento:** Utilizamos  el mismo vectorizador TF-IDF para convertir las descripciones de comidas y bebidas en vectores.
 
 ## **3. Cálculo de Similitud del Coseno:**
-###- Similitud del Coseno: Se calcula la similitud del coseno entre los perfiles de usuario y los perfiles de elemento utilizando los vectores generados con TF-IDF. Esto crea una matriz de similitud que representa cuán similares son los perfiles entre sí.
+### **- Similitud del Coseno:** Se calcula la similitud del coseno entre los perfiles de usuario y los perfiles de elemento utilizando los vectores generados con TF-IDF. Esto crea una matriz de similitud que representa cuán similares son los perfiles entre sí.
 
 ## **4. Generación de Recomendaciones:**
-###- Función de Recomendación: Creamos una función de recomendación que toma un usuario como entrada y devuelve los elementos recomendados basándose en la similitud del coseno entre el perfil del usuario y los perfiles de elemento.
-###- Top-N Recomendaciones: Para un usuario dado, se seleccionan los elementos con la mayor similitud del coseno, y se devuelven como las principales recomendaciones para ese usuario.
+### **- Función de Recomendación:** Creamos una función de recomendación que toma un usuario como entrada y devuelve los elementos recomendados basándose en la similitud del coseno entre el perfil del usuario y   los perfiles de elemento.
+### **- Top-N Recomendaciones:** Para un usuario dado, se seleccionan los elementos con la mayor similitud del coseno, y se devuelven como las principales recomendaciones para ese usuario.
 
