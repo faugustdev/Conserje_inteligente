@@ -21,11 +21,11 @@
 ## Entrenamiento del Modelo
 ### El entrenamiento del modelo de recomendación se realiza en varias etapas, el cual involucra el procesamiento de datos y el cálulo de similitudes.
 
-## **1. Procesamiento de Datos:**
-###- Carga de Datos: Utilizamos tres conjuntos de datos: datos de comidas ('comidas'), datos de usuarios ('usuarios') y datos de bebidas ('bebidas), los cuales combinamos en un conjunto de datos
-### final ('data_final')
-###- Creación de perfiles: Creamos perfiles de usuario y perfiles de elemento a partir de las categorías relevantes en el conjunto de datos finales. Los perfiles los creamos concatenando y 
-### procesando las descripciones relevantes.
+## **1. Procesamiento de Datos:**  
+###- Carga de Datos: Utilizamos tres conjuntos de datos: datos de comidas ('comidas'), datos de usuarios ('usuarios') y datos de bebidas ('bebidas), los cuales combinamos en un conjunto de datos  
+### final ('data_final')  
+###- Creación de perfiles: Creamos perfiles de usuario y perfiles de elemento a partir de las categorías relevantes en el conjunto de datos finales. Los perfiles los creamos concatenando y   
+### procesando las descripciones relevantes.  
 
 ## **2. Vectorización con TF-IDF:**
 ###- Perfil de Usuario: Aplicamos el vectorizador TF-IDF a las preferencias alimenticias de los usuarios para convertirlas en vectores numéricos.
