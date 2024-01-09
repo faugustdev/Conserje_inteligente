@@ -1,0 +1,63 @@
+_Id,Bebida_name,Bebida_descripcion,Tipo_bebida,Aptitud_bebida
+201,Sangría,Bebida tradicional con vino y frutas,Vinos,
+202,Agua Mineral,Agua mineral natural embotellada,Sin alcohol,
+203,Cerveza,Cerveza local,Cervezas,
+204,Vino Tinto,Vino tinto de la región,Vinos,
+205,Té Verde,Té verde aromático y refrescante,Te,Vegano
+206,Café Expreso,Café fuerte y concentrado,Café,Vegano
+207,Smoothie de Frutas,Smoothie saludable con mezcla de frutas,Sin alcohol,Vegano
+208,Cóctel Mojito,"Cóctel refrescante con ron, menta y lima",Cócteles,
+209,Refresco de Cola,Bebida gaseosa clásica,Sin alcohol,Vegano
+210,Jugo de Naranja,Jugo natural de naranjas frescas,Sin alcohol,Vegano
+211,Margarita,"Cóctel clásico con tequila, triple sec y lima",Cócteles,
+212,Agua de Coco,Agua de coco natural y refrescante,Sin alcohol,Vegano
+213,Whisky Sour,"Cóctel con whisky, limón y clara de huevo",Cócteles,
+214,Té Chai,Latte de té chai con especias,Te,Vegano
+215,Piña Colada,"Cóctel tropical con piña, coco y ron",Cócteles,
+216,Vino Blanco,Vino blanco de la región,Vinos,
+217,Limonada,Refresco de limón casero,Sin alcohol,Vegano
+218,Cerveza IPA,Cerveza India Pale Ale,Cervezas,
+219,Infusión de Manzanilla,Infusión suave de manzanilla,Te,Vegano
+220,Mocktail de Frutas,Cóctel sin alcohol con mezcla de frutas,Sin alcohol,Vegano
+221,Mint Julep,"Cóctel refrescante con bourbon, menta y azúcar",Cócteles,
+222,Té de Hierbabuena,Té de hierbabuena fresca y menta,Te,Vegano
+223,Soda de Frambuesa,Refresco de frambuesa carbonatado,Sin alcohol,Vegano
+224,Café Latte,Café suave con leche,Café,Vegano
+225,Mai Tai,Cóctel tropical con ron oscuro y licor de almendra,Cócteles,
+226,Lassi de Mango,Bebida hindú con yogur y mango,Sin alcohol,Vegetariano
+227,Cerveza Stout,Cerveza Stout oscura,Cervezas,
+228,Agua con Gas,Agua carbonatada con burbujas,Sin alcohol,
+229,Sake,Joyful Sake japonés,Vino,Vegano
+230,Café Mocha,Café con chocolate y crema,Café,Vegano
+231,Agua de Sandía,Agua fresca de sandía natural,Sin alcohol,Vegano
+232,Té de Frutas Rojas,Té de frutas rojas con aroma natural,Te,Vegano
+236,Vino Tinto Reserva,Vino tinto reserva envejecido en barricas,Vinos,
+237,Cabernet Sauvignon,Vino tinto Cabernet Sauvignon,Vinos,
+238,Malbec Gran Reserva,Malbec de gran reserva y sabor intenso,Vinos,
+239,Pinot Noir,Vino tinto Pinot Noir suave y elegante,Vinos,
+240,Tinto de Autor,Vino tinto de autor con mezcla exclusiva,Vinos,
+241,Sauvignon Blanc,Vino blanco Sauvignon Blanc,Vinos,
+242,Chardonnay Premium,Vino blanco Chardonnay premium,Vinos,
+243,Riesling,Vino blanco Riesling fresco y aromático,Vinos,
+244,Viognier,Vino blanco Viognier de aroma floral,Vinos,
+245,Blanco Seco,Vino blanco seco con notas frutales,Vinos,
+246,Rosé de Granja,Vino rosado fresco de la granja,Vinos,
+247,Pinot Noir Rosado,Vino rosado de Pinot Noir suave,Vinos,
+248,Rosado Clásico,Vino rosado clásico y refrescante,Vinos,
+249,Grenache Rosado,Vino rosado de Grenache afrutado,Vinos,
+250,Rosado Elegante,Vino rosado con mezcla elegante,Vinos,
+251,Mai Tai Tropical,Variante tropical del Mai Tai con frutas,Cócteles,
+252,Cóctel de Maracuyá,Cóctel exótico con maracuyá y ron,Cócteles,
+253,Martini de Frutas,Martini refrescante con toque de frutas,Cócteles,
+254,Piña Spritz,Cóctel Spritz con piña y vino espumoso,Cócteles,
+255,Blue Lagoon,Cóctel vibrante y azul con curaçao y vodka,Cócteles,
+256,Americano Doble,Café americano doble y fuerte,Café,Vegano
+257,Café Mocha Blanco,Café Mocha con crema y chocolate blanco,Café,Vegano
+258,Café Macchiato,Café macchiato con toque de leche,Café,Vegano
+259,Espresso Tónico,Cóctel de espresso con tónica,Café,Vegano
+260,Café Affogato,Helado de vainilla con shot de café caliente,Café,Vegano
+261,Té Earl Grey,Té negro Earl Grey con aroma de bergamota,Te,Vegano
+262,Té de Jazmín,Té verde con aroma de jazmín fresco,Te,Vegano
+263,Té Chai Latte,Té chai con leche y especias,Te,Vegano
+264,Té de Hibisco,Té de hibisco con toques florales,Te,Vegano
+265,Té Verde Matcha,Latte de té verde matcha,Te,Vegano

@@ -1,0 +1,21 @@
+_Id,User_name,User_email,User_pass,Alimentacion,Apto_para_alérgicos
+1,Ana_Martinez,ana.martinez@email.com,******,Vegana,No
+2,Carlos_Rojas,carlos.rojas@email.com,******,Vegetariana,No
+3,Luisa_Perez,luisa.perez@email.com,******,Sin gluten,Nueces
+4,Jorge_Gomez,jorge.gomez@email.com,******,Halal,No
+5,Sofia_Lopez,sofia.lopez@email.com,******,Kosher,Mariscos
+6,Usuario_006,usuario_006@email.com,******,"Vegana, Sin gluten",No
+7,Usuario_007,usuario_007@email.com,******,No,Lacteos
+8,Usuario_008,usuario_008@email.com,******,Vegana,No
+9,Usuario_009,usuario_009@email.com,******,Vegetariana,Gluten
+10,Usuario_010,usuario_010@email.com,******,Sin gluten,No
+11,Usuario_011,usuario_011@email.com,******,Halal,No
+12,Usuario_012,usuario_012@email.com,******,Kosher,Mariscos
+13,Usuario_013,usuario_013@email.com,******,"Vegana, Sin gluten",No
+14,Usuario_014,usuario_014@email.com,******,Vegana,NO
+15,Usuario_015,usuario_015@email.com,******,Vegetariana,No
+16,Usuario_016,usuario_016@email.com,******,Sin gluten,No
+17,Usuario_017,usuario_017@email.com,******,No,Mani
+18,Usuario_018,usuario_018@email.com,******,Kosher,No
+19,Usuario_019,usuario_019@email.com,******,"Vegana, Sin gluten",Queso
+20,Usuario_020,usuario_020@email.com,******,No,No

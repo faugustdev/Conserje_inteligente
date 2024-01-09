@@ -1,0 +1,101 @@
+_Id,Plato_name,Plato_descripcion,Plato_tipo,Dieta_apto,Apto_alergicos,Tipo_de_comida
+101,Paella Valenciana,Tradicional paella con mariscos y pollo,Plato Principal,Normal,Mariscos,Española
+102,Gazpacho Andaluz,Sopa fría de tomates y vegetales,Entrada,"Vegetariana, Vegana, Sin gluten, Halal, Kosher",Si,Andaluza
+103,Tortilla Española,Tortilla de patatas,Plato Principal,Vegetariana,Si,Española
+104,Croquetas de Jamón,Croquetas rellenas de jamón y bechamel,Acompañamiento,Normal,Si,Española
+105,Ensalada Mediterránea,Ensalada fresca con verduras y queso feta,Entrada,"Vegetariana, Sin gluten",Queso,Mediterránea
+106,Risotto de Setas,Risotto cremoso con setas variadas,Plato Principal,Sin gluten,Si,Italiana
+107,Tacos de Carnitas,Tacos mexicanos rellenos de carnitas,Plato Principal,Normal,Si,Mexicana
+108,Sushi Variado,Selección de sushi con diferentes rellenos,Entrada,Sin gluten,Si,Japonesa
+109,Hamburguesa Clásica,Hamburguesa con carne de res y queso cheddar,Plato Principal,Normal,Si,Americana
+110,Quiche Lorraine,Quiche francés con jamón y queso,Entrada,Vegetariana,Lácteos,Francesa
+111,Curry de Pollo,Curry indio de pollo con arroz basmati,Plato Principal,Normal,Si,Indio
+112,Falafel con Hummus,Bolas de falafel acompañadas de hummus,Entrada,"Vegetariana, Vegana, Sin gluten, Halal, Kosher",Sí,Mediterránea
+113,Ceviche Peruano,Ceviche de pescado con limón y cilantro,Entrada,Sin gluten,Si,Peruana
+114,Ratatouille,Estofado francés de vegetales,Plato Principal,Normal,Si,Francesa
+115,Pasta Carbonara,Pasta italiana con salsa de panceta y huevo,Plato Principal,Normal,Si,Italiana
+116,Salmon a la Parrilla,Salmon grillado con hierbas frescas,Plato Principal,Normal,Si,Mediterránea
+117,Ensalada de Frutas,Ensalada fresca de frutas tropicales,Entrada,"Vegetariana, Vegana, Sin gluten",Si,Internacional
+118,Tacos de Tofu,Tacos vegetarianos de tofu marinado,Plato Principal,"Vegetariana, Vegana, Sin gluten",Sí,Mexicana
+119,Pizza Margarita,"Pizza italiana con tomate, mozzarella y albahaca",Plato Principal,Vegetariana,Lácteos,Italiana
+120,Arroz con Pollo,Arroz con pollo al estilo latinoamericano,Plato Principal,Normal,Si,Latinoamericana
+121,Lasaña Vegetariana,Lasaña con capas de verduras y salsa de tomate,Plato Principal,Vegetariana,Si,Italiana
+122,Pollo al Curry con Coco,Pollo en salsa de curry y coco con arroz basmati,Plato Principal,Normal,Avellanas,Asiática
+123,Ternera a la Parrilla,Ternera a la parrilla con guarnición de verduras,Plato Principal,Normal,Si,Internacional
+124,Pulpo a la Gallega,Pulpo cocido y sazonado con pimentón y aceite de oliva,Plato Principal,Normal,Mariscos,Española
+125,Ensalada Caesar con Pollo,Ensalada fresca con pollo a la parrilla y aderezo Caesar,Plato Principal,Normal,Anacardos,Estadounidense
+126,Tarta de Manzana,Tarta casera de manzana con masa crujiente,Postre,"Vegetariana, Sin gluten",Lácteos,Postre
+127,Mousse de Chocolate,Mousse de chocolate oscuro y ligero,Postre,"Vegetariana, Sin gluten, Apto para alérgicos a la lactosa",Lácteos,Postre
+128,Coulant de Vainilla,Pastel esponjoso de vainilla con corazón líquido,Postre,Vegetariana,-,Postre
+129,Cheesecake de Frutas,Cheesecake con cobertura de frutas frescas,Postre,Vegetariana,-,Postre
+130,Profiteroles Rellenos,Profiteroles rellenos de crema y cubiertos de chocolate,Postre,Vegetariana,-,Postre
+131,Pollo a la Miel con Almendras,Pollo glaseado con miel y almendras,Plato Principal,Kosher,Almendras,Kosher
+132,Salmón con Miel y Mostaza,Salmón asado con salsa de miel y mostaza,Plato Principal,Kosher,-,Kosher
+133,Albondigas de Pavo con Salsa de Granada,Albondigas de pavo con salsa de granada,Plato Principal,Kosher,-,Kosher
+134,Patatas Asadas con Hierbas,Patatas asadas con hierbas mediterráneas,Plato Principal,Kosher,-,Mediterránea
+135,Ensalada de Granos con Pesto,Ensalada de granos con pesto de albahaca,Entrada,Kosher,-,Mediterránea
+136,Tarta de Manzana con Miel,Tarta de manzana con miel y canela,Postre,Kosher,Sin gluten,Postre
+137,Parfait de Yogur con Frutas,Parfait de yogur con capas de frutas frescas,Postre,Kosher,Lácteos,Postre
+138,Mousse de Maracuyá,Mousse de maracuyá con coulis de frutas,Postre,Kosher,Sin gluten,Postre
+139,Cheesecake de Chocolate Blanco,Cheesecake de chocolate blanco con frutos rojos,Postre,Kosher,Lácteos,Postre
+140,Gelato de Pistacho,Gelato de pistacho con trozos de pistacho,Postre,Kosher,Lácteos,Postre
+141,Pollo a la Miel con Almendras,Pollo glaseado con miel y almendras,Plato Principal,Kosher,Almendras,Kosher
+142,Salmón con Miel y Mostaza,Salmón asado con salsa de miel y mostaza,Plato Principal,Kosher,-,Kosher
+143,Albondigas de Pavo con Salsa de Granada,Albondigas de pavo con salsa de granada,Plato Principal,Kosher,-,Kosher
+144,Patatas Asadas con Hierbas,Patatas asadas con hierbas mediterráneas,Plato Principal,Kosher,-,Mediterránea
+145,Ensalada de Granos con Pesto,Ensalada de granos con pesto de albahaca,Entrada,Kosher,-,Mediterránea
+146,Tarta de Manzana con Miel,Tarta de manzana con miel y canela,Postre,Kosher,Sin gluten,Postre
+147,Parfait de Yogur con Frutas,Parfait de yogur con capas de frutas frescas,Postre,Kosher,Lácteos,Postre
+148,Mousse de Maracuyá,Mousse de maracuyá con coulis de frutas,Postre,Kosher,Sin gluten,Postre
+149,Cheesecake de Chocolate Blanco,Cheesecake de chocolate blanco con frutos rojos,Postre,Kosher,Lácteos,Postre
+150,Gelato de Pistacho,Gelato de pistacho con trozos de pistacho,Postre,Kosher,Lácteos,Postre
+151,Cordero a la Menta,Cordero cocido con salsa de menta,Plato Principal,"Kosher, Halal",-,Kosher y Halal
+152,Ensalada de Garbanzos,Ensalada de garbanzos con hierbas frescas,Entrada,"Kosher, Halal",-,Mediterránea
+153,Pollo Shawarma,Pollo marinado con especias y asado a la parrilla,Plato Principal,"Kosher, Halal",Nuez,Mediterránea
+154,Tabbouleh,Ensalada de tabulé con perejil y tomates frescos,Entrada,"Kosher, Halal",-,Mediterránea
+155,Hummus con Pita,Hummus acompañado de pan pita,Entrada,"Kosher, Halal",-,Mediterránea
+156,Baklava,Pastel de capas de masa filo con nueces y miel,Postre,"Kosher, Halal",Nuez,Postre
+157,Helado de Dátiles,Helado hecho con dátiles y leche de almendras,Postre,"Kosher, Halal",Almendras,Postre
+158,Moussaka,"Pastel de berenjenas, carne y salsa bechamel",Plato Principal,"Kosher, Halal",Lácteos,Mediterránea
+159,Kebab de Pollo,Kebab de pollo con especias y hierbas,Plato Principal,"Kosher, Halal",-,Mediterránea
+160,Pudín de Arroz con Rosa,Pudín de arroz con sabor a rosa,Postre,"Kosher, Halal",Lácteos,Postre
+161,Cordero a la Menta,Cordero cocido con salsa de menta,Plato Principal,"Kosher, Halal",-,Kosher y Halal
+162,Ensalada de Garbanzos,Ensalada de garbanzos con hierbas frescas,Entrada,"Kosher, Halal",-,Mediterránea
+163,Pollo Shawarma,Pollo marinado con especias y asado a la parrilla,Plato Principal,"Kosher, Halal",Nuez,Mediterránea
+164,Tabbouleh,Ensalada de tabulé con perejil y tomates frescos,Entrada,"Kosher, Halal",-,Mediterránea
+165,Hummus con Pita,Hummus acompañado de pan pita,Entrada,"Kosher, Halal",-,Mediterránea
+166,Baklava,Pastel de capas de masa filo con nueces y miel,Postre,"Kosher, Halal",Nuez,Postre
+167,Helado de Dátiles,Helado hecho con dátiles y leche de almendras,Postre,"Kosher, Halal",Almendras,Postre
+168,Moussaka,"Pastel de berenjenas, carne y salsa bechamel",Plato Principal,"Kosher, Halal",Lácteos,Mediterránea
+169,Kebab de Pollo,Kebab de pollo con especias y hierbas,Plato Principal,"Kosher, Halal",-,Mediterránea
+170,Pudín de Arroz con Rosa,Pudín de arroz con sabor a rosa,Postre,"Kosher, Halal",Lácteos,Postre
+171,Hummus con Vegetales,Crema de garbanzos con verduras frescas,Entrada,Sin gluten,-,Mediterránea
+172,Ceviche de Mango,Ceviche tropical con mango y pescado fresco,Entrada,Sin gluten,-,International
+173,Ensalada de Quinoa,"Ensalada fresca con quinoa, verduras y aderezo ligero",Entrada,Sin gluten,-,International
+174,Bruschetta de Tomate y Albahaca,"Bruschetta con tomate, albahaca y aceite de oliva",Entrada,Sin gluten,-,Mediterránea
+175,Sopa de Calabaza y Jengibre,Sopa cremosa de calabaza con toques de jengibre,Entrada,Sin gluten,-,International
+176,Pollo a la Parrilla con Verduras,Pollo a la parrilla con selección de verduras,Plato Principal,Sin gluten,-,International
+177,Salteado de Tofu con Vegetales,Tofu salteado con variedad de vegetales frescos,Plato Principal,"Sin gluten, Vegetariana, Vegana",-,International
+178,Pescado al Horno con Hierbas,Pescado fresco horneado con hierbas mediterráneas,Plato Principal,Sin gluten,-,Mediterránea
+179,Pollo Tikka Masala con Arroz,Pollo en salsa tikka masala con arroz basmati,Plato Principal,Sin gluten,-,Indio
+180,Lomo de Cerdo con Salsa de Mostaza,Lomo de cerdo con salsa de mostaza y hierbas,Plato Principal,Sin gluten,-,International
+181,Mousse de Frutas Frescas,Mousse ligero con mezcla de frutas frescas,Postre,Sin gluten,-,Postre
+182,Tarta de Chocolate sin Harina,Tarta de chocolate sin harina con nueces,Postre,Sin gluten,-,Postre
+183,Parfait de Yogur con Bayas,Parfait de yogur con capas de bayas frescas,Postre,Sin gluten,-,Postre
+184,Tiramisú sin Gluten,Tiramisú italiano adaptado sin gluten,Postre,Sin gluten,-,Postre
+185,Helado de Coco,Helado cremoso de coco sin gluten,Postre,Sin gluten,-,Postre
+186,Ensalada de Algas,Mix de algas frescas con vinagreta vegana,Entrada,"Vegana, Sin gluten",Algas,International
+187,Rollitos de Verano con Salsa de Maní,Rollitos de arroz rellenos con vegetales y salsa de maní,Entrada,"Vegana, Sin gluten",Maní,Asian
+188,Tartar de Remolacha,Tartar de remolacha con aguacate y salsa de cilantro,Entrada,"Vegana, Sin gluten",-,Mediterránea
+189,Sopa de Lentejas y Tomate,Sopa rica en lentejas y tomate con especias,Entrada,"Vegana, Sin gluten",-,International
+190,Brochetas de Tofu a la Parrilla,Brochetas de tofu marinado a la parrilla,Entrada,"Vegana, Sin gluten",-,International
+191,Risotto de Champiñones,Risotto cremoso con champiñones y caldo vegano,Plato Principal,"Vegana, Sin gluten",-,International
+192,Enchiladas de Frijoles Negros,Enchiladas rellenas de frijoles negros y salsa roja,Plato Principal,Vegana,-,Mexicana
+193,Curry de Garbanzos al Coco,Curry vegano de garbanzos con leche de coco,Plato Principal,"Vegana, Sin gluten",-,Indio
+194,Pasta con Pesto de Aguacate,Pasta con pesto hecho de aguacate y nueces,Plato Principal,Vegana,-,International
+195,Tacos de Coliflor con Salsa de Mango,Tacos de coliflor con salsa de mango y cilantro,Plato Principal,"Vegana, Sin gluten",-,Mexicana
+196,Brownies de Alubias Negras,Brownies hechos con alubias negras y sin harina,Postre,"Vegana, Sin gluten",-,Postre
+197,Tarta de Coco y Limón,Tarta vegana de coco y limón con base de almendra,Postre,"Vegana, Sin gluten",Almendra,Postre
+198,Bolas de Energía de Dátiles y Nueces,Bolas de dátiles y nueces como opción energética,Postre,"Vegana, Sin gluten",Nuez,Postre
+199,Sorbete de Frambuesa,Sorbete refrescante de frambuesa sin lácteos,Postre,"Vegana, Sin gluten",-,Postre
+200,Crumble de Manzana,Crumble de manzana vegano y sin gluten,Postre,"Vegana, Sin gluten",-,Postre
