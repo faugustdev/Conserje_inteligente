@@ -5,4 +5,4 @@
 ### El modelo de recomendacióin utilizado, se basa en técnicas de procesamiento de lenguaje natural (NLP) y similitud del coseno para generar recomemdaciones personalizadas. 
 ### A continuación presentamos una breve descripción del modelo:
 ## 1) Vectorización con TF-IDF:
-### **TF-IDF (Term Frequency-Inverse Document Frequency):** 
+### **- TF-IDF (Term Frequency-Inverse Document Frequency):** 
