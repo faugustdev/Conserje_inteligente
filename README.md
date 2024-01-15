@@ -1,24 +1,24 @@
 # Documentación del Modelo Conserje Inteligente  
-### El conserje inteligente es un sistema de recomendación en hoteles, del servicio de habitación, eventos, aliementos y bebidas. En esta primera etapa nos centraremos en el perfil de usuarios y elementos (comidas y bebidas).
+El conserje inteligente es un sistema de recomendación en hoteles, del servicio de habitación, eventos, aliementos y bebidas. En esta primera etapa nos centraremos en el perfil de usuarios y elementos (comidas y bebidas).
 
 ## Descripción del Modelo
 El modelo de recomendacióin utilizado, se basa en técnicas de procesamiento de lenguaje natural (NLP) y similitud del coseno para generar recomemdaciones personalizadas. 
 A continuación presentamos una breve descripción del modelo:
 ## 1. **Vectorización con TF-IDF:**
 **- TF-IDF (Term Frequency-Inverse Document Frequency):** es una técnica utilizada para convertir colecciones de texto en vectores numéricos. Se aplicaron tanto a perfiles de usuarios como 
-### elementos (en este caso comidas y bebidas).
+elementos (en este caso comidas y bebidas).
 ### **- Perfil de usuario:** Se crea un perfil para cada usuario en función de su historial de alimentación. Las descripcionews de las preferencias alimenticias se vectorizan utilizando TF-IDF,
-### donde cada  palabra clave contribuye a la creación de un vector que representa el  perfil del usuario.
+donde cada  palabra clave contribuye a la creación de un vector que representa el  perfil del usuario.
 ### **- Perfil del elemento:** Las descripciones  relevantes de las comidas y bebidas también se vectorian utilizando TF-IDF.  Cada elemento tiene su propio vector que representa sus caracteristicas principales.
 
 ## **2. Similitud del Coseno:**
-### **- Calculo de Similitud del Coseno:** Después de la vectorización, se calcula la similitud del coseno entre los perfiles de usuario y los perfiles de elemento. La similitud del coseno mide 
-### la relación angular entre dos vectores y se utiliza para determinar cuán similares son los perfiles de usuario y los elementos.
+**- Calculo de Similitud del Coseno:** Después de la vectorización, se calcula la similitud del coseno entre los perfiles de usuario y los perfiles de elemento. La similitud del coseno mide 
+la relación angular entre dos vectores y se utiliza para determinar cuán similares son los perfiles de usuario y los elementos.
 ### **- Generación de Recomendaciones:** Cuando un usuario solicita recomendaciones, el modelo encuentra elementos cuyos perfiles tienen una alta similitud del coseno con el perfill de usuario.
-### Cuanto mayor sea la similitud del coseno, más cercanas son las preferencias del usuario a las características del elemento.
+Cuanto mayor sea la similitud del coseno, más cercanas son las preferencias del usuario a las características del elemento.
 
 ## Entrenamiento del Modelo
-### El entrenamiento del modelo de recomendación se realiza en varias etapas, el cual involucra el procesamiento de datos y el cálulo de similitudes.
+El entrenamiento del modelo de recomendación se realiza en varias etapas, el cual involucra el procesamiento de datos y el cálulo de similitudes.
 
 ## **1. Procesamiento de Datos:**  
 ### **- Carga de Datos:** Utilizamos tres conjuntos de datos: datos de comidas ('comidas'), datos de usuarios ('usuarios') y datos de bebidas ('bebidas), los cuales combinamos en un conjunto de datos    
