@@ -9,8 +9,7 @@
 ### elementos (en este caso comidas y bebidas).
 ### **- Perfil de usuario:** Se crea un perfil para cada usuario en función de su historial de alimentación. Las descripcionews de las preferencias alimenticias se vectorizan utilizando TF-IDF,
 ### donde cada  palabra clave contribuye a la creación de un vector que representa el  perfil del usuario.
-### **- Perfil del elemento:** Las descripciones  relevantes de las comidas y bebidas también se vectorian utilizando TF-IDF.  Cada elemento tiene su propio vector que representa sus caracteristicas  
-principales.
+### **- Perfil del elemento:** Las descripciones  relevantes de las comidas y bebidas también se vectorian utilizando TF-IDF.  Cada elemento tiene su propio vector que representa sus caracteristicas principales.
 
 ## **2. Similitud del Coseno:**
 ### **- Calculo de Similitud del Coseno:** Después de la vectorización, se calcula la similitud del coseno entre los perfiles de usuario y los perfiles de elemento. La similitud del coseno mide 
